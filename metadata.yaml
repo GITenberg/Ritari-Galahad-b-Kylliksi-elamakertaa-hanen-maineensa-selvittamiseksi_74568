@@ -1,0 +1,37 @@
+_repo: Ritari-Galahad-b-Kylliksi-elamakertaa-hanen-maineensa-selvittamiseksi_74568
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nyman, Väinö
+    alias: Nyman, Vaino
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '46596'
+    url: http://www.gutenberg.org/2009/agents/46596
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+creator:
+  author:
+    agent_name: Erskine, John
+    birthdate: 1879
+    deathdate: 1951
+    gutenberg_agent_id: '39535'
+    url: http://www.gutenberg.org/2009/agents/39535
+    wikipedia: https://en.wikipedia.org/wiki/John_Erskine_(educator)
+description: ''
+gutenberg_issued: '2024-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74568'
+language: fi
+pgterms:marc905: 20240827122248erskine
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ritari Galahad : $b Kylliksi elämäkertaa hänen maineensa selvittämiseksi'
+url: http://www.gutenberg.org/ebooks/74568
